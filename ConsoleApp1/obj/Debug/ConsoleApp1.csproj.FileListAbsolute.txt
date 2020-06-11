@@ -1,0 +1,14 @@
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\Agenator\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
